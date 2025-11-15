@@ -12,19 +12,26 @@ I turn complex data into clear insights that help businesses make better decisio
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
 ### 📊 Featured Projects
 
 #### [**Telecom Customer Churn Analysis**](https://github.com/Rolakamin/Telecom-Customer-Churn-Analysis)
-Power BI dashboard and analysis to identify churn risks and improve customer retention strategies.
+Power BI dashboard analyzing customer churn patterns to improve retention. Identified high-value customers, churn risks, and key drivers of attrition to provide data-driven recommendations for the CMO.
 
-#### [**Maven Toys Sales Performance**](https://github.com/Rolakamin/Maven-Toys-Sales-Performance) 
-Sales dashboard and performance analysis for retail business optimization.
+#### [**Maven Toys Sales Performance Analysis**](https://github.com/Rolakamin/Maven-Toys-Sales-Performance)
+Power BI dashboard evaluating sales trends, store performance, and progress toward $8.5M revenue targets. Provides insights for strategic expansion planning of toy stores across Mexico.
+
+#### [**Supplier Quality and Performance**](https://github.com/Rolakamin/Supplier-Quality-and-Performance)
+Power BI analysis identifying underperforming vendors and material combinations causing production defects and downtime. Enables data-driven supplier management decisions.
 
 #### [**Supply Chain Analysis**](https://github.com/Rolakamin/Supply-Chain-Analysis)
-End-to-end supply chain performance metrics and logistics optimization.
+SQL-based analysis uncovering operational inefficiencies in e-commerce fulfillment. Identifies product availability gaps and supplier-related constraints affecting customer satisfaction.
 
-#### [**Supplier Quality & Performance**](https://github.com/Rolakamin/Supplier-Quality-and-Performance)
-Vendor performance tracking and quality assurance metrics.
+#### [**E-Commerce Data Analysis**](https://github.com/Rolakamin/E-Commerce-Data-Analysis)
+Comprehensive SQL analysis of transactional data exploring sales performance, customer behavior, and product profitability. Supports inventory management and marketing strategy decisions.
+
+#### [**Bike Sales Analysis**](https://github.com/Rolakamin/Bike-Sales-Analysis)
+Excel-based demographic analysis examining how marital status, income, education, and location influence bike purchasing behavior. Identifies target customer segments for marketing optimization.
 
 ### 🚀 Currently
 - **Working on**: Telecom Customer Churn Analysis Project
