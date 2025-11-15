@@ -15,7 +15,7 @@ I turn complex data into clear insights that help businesses make better decisio
 ### 📊 Featured Projects
 
 #### [**Telecom Customer Churn Analysis**](https://github.com/Rolakamin/Telecom-Customer-Churn-Analysis)
-Analyzing customer behavior to predict and reduce churn rates using Python and statistical modeling.
+Power BI dashboard and analysis to identify churn risks and improve customer retention strategies.
 
 #### [**Maven Toys Sales Performance**](https://github.com/Rolakamin/Maven-Toys-Sales-Performance) 
 Sales dashboard and performance analysis for retail business optimization.
