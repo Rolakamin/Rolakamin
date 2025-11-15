@@ -36,14 +36,14 @@ Excel-based demographic analysis examining how marital status, income, education
 ### 🚀 Currently
 - **Working on**: Telecom Customer Churn Analysis Project
 - **Learning**: Python and Advanced SQL
-- **Looking to collaborate on**: Data analysis projects, dashboard development, and predictive analytics
+- **Looking to collaborate on**: Data analysis projects, dashboard development, and predictive analytic
 
 ### 📫 Let's Connect
-- **Email**: [rolakmin@gmail.com](mailto:rolakmin@gmail.com)
-- **LinkedIn**: [Rolake Aminu](https://www.linkedin.com/in/rolake-aminu-888a9a3b)
-- **Portfolio**: [GitHub Portfolio](https://github.com/Rolakamin)
+[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolake-aminu-888a9a3b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolakmin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rolakamin)
 
-💡 **Fun Fact**: When I'm not analyzing data, I'm exploring fashion and craft projects!
+💡 **Fun Fact**: When I'm not analyzing data, I'm exploring fashion and craft projects! I believe the same creativity needed for crafts applies to finding innovative solutions in data analysis.  
 
 ---
 
