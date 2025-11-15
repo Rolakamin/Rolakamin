@@ -35,8 +35,9 @@ Excel-based demographic analysis examining how marital status, income, education
 
 ### 🚀 Currently
 - **Working on**: Telecom Customer Churn Analysis Project
-- **Learning**: Python and Advanced SQL
-- **Looking to collaborate on**: Data analysis projects, dashboard development, and predictive analytic
+- **Learning**: Python fundamentals and Advanced SQL for complex queries
+- **Exploring**: Data storytelling techniques and dashboard optimization
+- **Open to**: Collaborating on data analysis projects and BI development
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolake-aminu-888a9a3b)
