@@ -15,10 +15,10 @@ I turn complex data into clear insights that help businesses make better decisio
 ### 📊 Featured Projects
 
 #### [**Telecom Customer Churn Analysis**](https://github.com/Rolakamin/Telecom-Customer-Churn-Analysis)
-Power BI dashboard analyzing customer churn patterns to improve retention. Identified high-value customers, churn risks, and key drivers of attrition to provide data-driven recommendations for the CMO.
+Power BI analysis examining customer churn patterns to improve retention. Identified high-value customers, churn risks, and key drivers of attrition to provide data-driven recommendations for the CMO.
 
 #### [**Maven Toys Sales Performance Analysis**](https://github.com/Rolakamin/Maven-Toys-Sales-Performance)
-Power BI dashboard evaluating sales trends, store performance, and progress toward $8.5M revenue targets. Provides insights for strategic expansion planning of toy stores across Mexico.
+Power BI analysis evaluating sales trends, store performance, and progress toward the $8.5M revenue target. Provides insights to support strategic expansion planning for toy stores across Mexico.
 
 #### [**Supplier Quality and Performance**](https://github.com/Rolakamin/Supplier-Quality-and-Performance)
 Power BI analysis identifying underperforming vendors and material combinations causing production defects and downtime. Enables data-driven supplier management decisions.
